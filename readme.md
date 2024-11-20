@@ -30,6 +30,12 @@ Also, make sure that your git commands are running without errors before you ref
 
 Then, you can see if you made an error with your git add, commit, or push commands.
 
+# This question is here to give the graders a way to identify the student. The paragraph explaining why the plot format is important is to make sure that we are able to identify all of the points on a plot and then get full credit for the ones we make. It is also to make sure that outside of the class when we make plots they are understandable to outside viewers as plots are often shared with others to interpret. 
 
 ### _your name and UW net ID_
+Alex Hankins 
+ajhankin
+
 Write your paragraph on the importance of the required plot elements here.
+
+Having all of the plot elements ensure that the viewer is able to understand the data set and the question you are trying to answer. Without labels and axis numbers provided it will be completely unclear on what is going on. It is important to take into account other visual aspects that would make the plot easier to read such as adding a grid, adjusting size of objects, changing the shapes of plot points, and even making sure the color would be visible to someone who may be color blind. A plot should help someone get a general idea of what is going on even if they have no previous background on the topic. By following the required plot elements this can be done and you have made a plot that is easy to understand while scientifically appropriate. 
